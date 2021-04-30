@@ -21,7 +21,7 @@ public class BooksController {
 	@Autowired
 	private BooksService booksService;
 	
-	@GetMapping("/books")
+	@GetMapping("/getallbooks")
 	public List<Books> retriveAllBooks() {
 		return booksService.getAllBooks();
 	}
@@ -31,7 +31,7 @@ public class BooksController {
 		return booksService.checkEmptyLibrary();
 	}
 	
-	@PostMapping("/getallbooks")
+	@PostMapping("/books")
 	public void addBooks(@RequestBody Books book) {
 		booksService.createBooks(book);
 	}
