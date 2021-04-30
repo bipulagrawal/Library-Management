@@ -34,9 +34,10 @@ The library management system is an API based application designed using spring 
 Please refer the swagger documentaion (swagger.json) for the details on the APIs created and their usage.
 All the APIs can be executed using Postman.
 
-# Pre Requisites
+# Pre Assumptions
 - Initially the library is empty
-- 
+- Any number of books can be added to the library
+- Same books can be added with multiple IDs
 
 # Advantages
 - Efficient way of tracking Library Books
