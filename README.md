@@ -21,7 +21,6 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
 # Library Management System
-=========================
 The library management system is an API based application designed using spring boot which can be used to view, return or borrow books from the library.
 
 ### Tools and Technologies
