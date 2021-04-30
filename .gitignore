@@ -13,3 +13,4 @@ buildNumber.properties
 .project
 .mvn/wrapper/
 .settings/
+mvnw*
