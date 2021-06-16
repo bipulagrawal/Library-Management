@@ -37,7 +37,7 @@ All the APIs can be executed using Postman.
 - Initially the library is empty
 - Any number of books can be added to the library
 - Same books can be added with multiple IDs
-- any number of books can be issued til lthe count reaches the maximum registered books
+- any number of books can be issued till the count reaches the maximum registered books
 
 # Advantages
 - Efficient way of tracking Library Books
